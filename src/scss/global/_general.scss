@@ -1,0 +1,17 @@
+body {
+    background: $background;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: $primaryColor;
+}
+
+img {
+    max-width: 100%;
+}
+
+input, button {
+    outline: none !important;
+}
